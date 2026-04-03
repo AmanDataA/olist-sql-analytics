@@ -81,6 +81,11 @@ SP, RJ, and MG account for **62% of total revenue**. Northern states (AM, AC, RR
 **3. Build a second-purchase trigger** — 93k customers bought once. A targeted offer within 21 days of first purchase (before the habit window closes) is the highest-leverage retention play available.
 
 ---
+## 📊 Dashboard
+
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/aman.suvanov/viz/OlistE-CommerceAnalysis_17750368278340/DashboardOlist)
+
+---
 
 ## 🛠 Tech Stack
 
@@ -115,10 +120,5 @@ olist-sql-analytics/
 ``` 
 ---
 
-## 📊 Dashboard
-
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/aman.suvanov/viz/OlistE-CommerceAnalysis_17750368278340/DashboardOlist)
-
----
 
 *Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)*
