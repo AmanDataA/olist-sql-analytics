@@ -82,6 +82,7 @@ Median below average signals a tail of very slow deliveries pulling the mean up.
 | Repeat buyers | 2,801 | 3% |
 
 97% of customers never return. The mechanism that converts a first-time buyer into a repeat buyer is essentially nonexistent.
+
 ---
 
 ## 🚀 Recommendations
