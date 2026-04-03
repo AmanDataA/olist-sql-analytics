@@ -27,7 +27,7 @@ The data tells a clear story: **97% of customers buy once and never return.** Re
 ## 📈 Key Findings
 
 ### Revenue Trend
-![Revenue Trend](visualizations/Revenue_Trend.png)
+![Revenue Trend](visualisations/Revenue_Trend.png)
 Revenue grew consistently through 2017, peaked at R$1.15M in November 2017 (Black Friday), then stabilized at R$0.98–1.1M/month through 2018 with no further growth.
 
 ### 🔁 Repeat Rate: 3%
