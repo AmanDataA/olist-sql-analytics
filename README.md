@@ -130,10 +130,13 @@ olist-sql-analytics/
 │   ├── 03_fact_orders.sql     ← core fact table
 │   └── 04_kpi.sql             ← all KPI queries
 └── README.md
-``` 
+```
+
+**Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 *Analysis by **AmanDataA** · [GitHub](#)*
 
 
-*Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)*
+
