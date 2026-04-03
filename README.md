@@ -107,12 +107,11 @@ SP, RJ, and MG account for **62% of total revenue**. Northern states (AM, AC, RR
 olist-sql-analytics/
 
 ├── sql/
-├── 01_schema.sql
-├── 02_cleaning.sql   
-├── 03_fact_orders.sql 
-└── 04_kpi.sql
-├── README.md
-
+│   ├── 01_schema.sql          ← table definitions + indexes
+│   ├── 02_cleaning.sql        ← data quality audit
+│   ├── 03_fact_orders.sql     ← core fact table
+│   └── 04_kpi.sql             ← all KPI queries
+└── README.md
 ---
 
 ## 📊 Dashboard
