@@ -24,9 +24,6 @@ The data tells a clear story: **97% of customers buy once and never return.** Re
 
 ---
 
-
----
-
 ## 📈 Key Findings
 
 ### Revenue Trend
