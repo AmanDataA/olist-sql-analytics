@@ -27,7 +27,7 @@ The data tells a clear story: **97% of customers buy once and never return.** Re
 ## 📈 Key Findings
 
 ### Revenue Trend
-![Revenue Trend](visualisations/Revenue_Trend.png)
+![Revenue Trend](visualizations/Revenue_Trend.png)
 Revenue grew consistently through 2017, peaked at R$1.15M in November 2017 (Black Friday), then stabilized at R$0.98–1.1M/month through 2018 with no further growth.
 
 ### 🔁 Repeat Rate: 3%
@@ -39,6 +39,7 @@ Revenue grew consistently through 2017, peaked at R$1.15M in November 2017 (Blac
 97% of customers never return. The mechanism that converts a first-time buyer into a repeat buyer is essentially nonexistent.
 
 ### 🏆 Revenue by Category
+![Revenue Category](visualizations/Revenue_by_category.png)
 | Category | Orders | Revenue |
 |---|---|---|
 | Health Beauty | 8,647 | R$1,233,131 |
@@ -50,6 +51,7 @@ Revenue grew consistently through 2017, peaked at R$1.15M in November 2017 (Blac
 Health Beauty leads in revenue despite fewer orders than Bed Bath Table — highest AOV in the top 5. Watches Gifts has the best revenue-to-orders ratio, indicating premium positioning.
 
 ### 💳 Payment Types
+![Payment Types](visualizations/Payment_Types.png)
 | Type | Orders | Revenue |
 |---|---|---|
 | Credit Card | 74,304 | R$12,101,094 (78%) |
@@ -69,6 +71,7 @@ Boleto at 18% reflects a uniquely Brazilian payment behavior — significant for
 Median below average signals a tail of very slow deliveries pulling the mean up. 1 in 12 orders arrives late — a direct driver of low repeat rates.
 
 ### 🗺 Regional Breakdown
+![State Revenue](visualizations/Revenue_by_State.png)
 SP, RJ, and MG account for **62% of total revenue**. Northern states (AM, AC, RR) show minimal volume — likely reflecting logistics barriers and lower market penetration.
 
 ---
