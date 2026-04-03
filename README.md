@@ -103,7 +103,7 @@ SP, RJ, and MG account for **62% of total revenue**. Northern states (AM, AC, RR
 
 ---
 
-## 📁 Project Infrastructure
+## 📁 Project Structure
 ``` 
 olist-sql-analytics/
 ├── sql/
